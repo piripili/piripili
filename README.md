@@ -82,9 +82,13 @@ Proyecto colaborativo de análisis y visualización de datos desarrollado con Py
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piripili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F7C873&text_color=C9D1D9">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piripili&theme=tokyonight" alt="Actividad de GitHub de Adriana">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piripili&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9">
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piripili&theme=tokyonight" alt="Estadísticas de GitHub">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piripili&theme=tokyonight" alt="Lenguajes más utilizados">
 
 </div>
 
