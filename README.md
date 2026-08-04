@@ -93,13 +93,3 @@ Proyecto colaborativo de análisis y visualización de datos desarrollado con Py
 ![Profile Views](https://komarev.com/ghpvc/?username=piripili&label=ASTRONAUTS%20RECEIVED&color=8b5cf6&style=for-the-badge)
 
 </div>
-
----
-
-## 🛰️ Current Mission
-
-```text
-MISSION: Become a Java Full Stack Developer
-STATUS: In progress
-LOCATION: Generation México
-NEXT DESTINATION: Spring Boot & Agile Projects
