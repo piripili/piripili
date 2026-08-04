@@ -2,21 +2,14 @@
 <p align="center">
   <img src="./ASTERIA.png" width="100%" alt="Banner de Asteria">
 </p>
-# ✨ WELCOME TO ASTERIA ✨
 
-### María Adriana Contreras
+<div align="center">
 
-`Java Full Stack Developer` · `Frontend Developer` · `Scrum`
-
-🌌 Transformando ideas en experiencias digitales.
-
-<br>
-
-<a href="https://piripili.github.io/ProjectAsteria-/?version=3">
+<a href="ENLACE_DE_TU_PORTAFOLIO">
   <img src="https://img.shields.io/badge/EXPLORAR-ASTERIA-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/maría-adriana-contreras-soto-60a063161">
+<a href="TU_ENLACE_DE_LINKEDIN">
   <img src="https://img.shields.io/badge/CONECTAR-LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
