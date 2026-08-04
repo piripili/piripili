@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./asteria-banner.png" width="100%" alt="Banner de Asteria">
+  <img src="./ASTERIA.png" width="100%" alt="Banner de Asteria">
 </p>
 # ✨ WELCOME TO ASTERIA ✨
 
