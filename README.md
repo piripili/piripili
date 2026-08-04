@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ WELCOME TO ASTERIA ✦
+# ✨ WELCOME TO ASTERIA ✨
 
 ### María Adriana Contreras
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="COLOCA_AQUÍ_EL_ENLACE_DE_ASTERIA">
+<a href="https://piripili.github.io/ProjectAsteria-/?version=3">
   <img src="https://img.shields.io/badge/EXPLORAR-ASTERIA-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
