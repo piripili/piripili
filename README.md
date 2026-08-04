@@ -82,13 +82,20 @@ Proyecto colaborativo de análisis y visualización de datos desarrollado con Py
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piripili&theme=tokyonight" alt="Actividad de GitHub de Adriana">
+### ✦ ASTERIA CONTROL PANEL ✦
+
+| 🛰️ Transmission | 🌌 Status |
+|:---|:---|
+| **Profile** | `piripili` |
+| **Main Mission** | `Java Full Stack Development` |
+| **Current Project** | `Project Asteria` |
+| **Technologies** | `Java · HTML · CSS · JavaScript` |
+| **Formation** | `Generation México` |
+| **Connection** | `ONLINE` 🟢 |
 
 <br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piripili&theme=tokyonight" alt="Estadísticas de GitHub">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piripili&theme=tokyonight" alt="Lenguajes más utilizados">
+![Profile Views](https://komarev.com/ghpvc/?username=piripili&label=ASTRONAUTS%20RECEIVED&color=8b5cf6&style=for-the-badge)
 
 </div>
 
